@@ -1,0 +1,25 @@
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color:        #0F1689;
+    --md-accent-fg-color:        #0F1689;
+    --md-typeset-a-color:#0F1689;
+
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color:        #0F1689;
+    --md-accent-fg-color:        #FFF;
+    --md-typeset-a-color:#FFFFFF;
+
+}
+
+div.md-content {
+    text-align: justify;
+}
+
+div.md-header__topic {
+    display: none;
+}
+
+.md-nav--primary .md-nav__title {
+    font-size: 0; /* Set font size to 0 to hide text */
+}
