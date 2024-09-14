@@ -1,14 +1,6 @@
 ### 👋 Introduction
 
-
-
 ### 🎯 Objective
-
-
-
-### 🌈 Contribution guidelines
-
-
 
 ### 👩‍💻 Useful resources
 
