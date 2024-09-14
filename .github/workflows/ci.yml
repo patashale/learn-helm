@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'docs/**' # Watch for changes in the docs folder
-      - 'mkdocs.yml' # Watch for changes in the mkdocs.yml file
 permissions:
   contents: write
 jobs:
