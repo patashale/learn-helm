@@ -74,8 +74,8 @@ nav:
   - Commands: commands.md
   - Charts: charts.md
   - Plugins: plugins.md
-  - Internals: internals.md
   - Registry: registry.md
+  - Internals: internals.md
   - Best Practices: best-practices.md
 
 copyright: Copyright &copy; 2024 <a href="https://www.github.com/patashale">Patashale™</a>
