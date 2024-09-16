@@ -23,6 +23,8 @@ theme:
   features:
     - navigation.footer
     - navigation.tabs
+    - content.code.copy
+    - content.code.annotate
 
 extra_css:
   - stylesheets/extra.css
@@ -38,6 +40,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra:
   generator: false
@@ -66,5 +70,6 @@ plugins:
 
 nav:
   - Introduction: index.md
+  - Installation: installation.md
 
 copyright: Copyright &copy; 2024 <a href="https://www.github.com/patashale">Patashale™</a>
