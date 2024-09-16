@@ -65,6 +65,6 @@ plugins:
         background_color: "#0F1689"
 
 nav:
-  - Home: index.md
+  - Introduction: index.md
 
 copyright: Copyright &copy; 2024 Patashale™
