@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://www.patashale.in/learn-helm/</loc>
-         <lastmod>2024-09-19</lastmod>
+         <loc>https://www.patashale.in/learn-helm/index.html</loc>
+         <lastmod>2024-09-20</lastmod>
     </url>
     <url>
-         <loc>https://www.patashale.in/learn-helm/commands/</loc>
-         <lastmod>2024-09-19</lastmod>
+         <loc>https://www.patashale.in/learn-helm/commands.html</loc>
+         <lastmod>2024-09-20</lastmod>
     </url>
     <url>
-         <loc>https://www.patashale.in/learn-helm/installation/</loc>
-         <lastmod>2024-09-19</lastmod>
+         <loc>https://www.patashale.in/learn-helm/installation.html</loc>
+         <lastmod>2024-09-20</lastmod>
     </url>
 </urlset>
