@@ -67,6 +67,7 @@ plugins:
   - social:
       cards_layout_options:
         background_color: "#0F1689"
+  - offline
 
 nav:
   - Introduction: index.md
