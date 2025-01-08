@@ -21,6 +21,9 @@ theme:
   features:
     - navigation.footer
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
     - content.code.copy
     - content.code.annotate
 
