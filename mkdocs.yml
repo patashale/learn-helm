@@ -46,18 +46,27 @@ markdown_extensions:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/patashale
-      name: Patashale™ on GitHub
-    - icon: fontawesome/brands/gitlab
-      link: https://gitlav.com/patashale
-      name: Patashale™ on GitLab
-    - icon: fontawesome/brands/mastodon
-      link: https://mastodon.social/@patashale
-      name: Patashale™ on Mastodon
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@patashale
       name: Patashale™ on YouTube
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@patashale
+      name: Patashale™ on Mastodon
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://linkedin.com/company/patashale
+    #   name: Patashale™ on LinkedIn
+    # - icon: fontawesome/brands/gitlab
+    #   link: https://gitlab.com/patashale
+    #   name: Patashale™ on GitHub
+    # - icon: fontawesome/brands/github
+    #   link: https://github.com/patashale
+    #   name: Patashale™ on GitHub
+    - icon: fontawesome/brands/square-reddit
+      link: https://reddit.com/r/patashale
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/patashale_in
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/patashale.bsky.social
 
 plugins:
   - search:
