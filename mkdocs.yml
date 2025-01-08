@@ -2,8 +2,6 @@ site_name: Learn Helm
 site_url: https://www.patashale.in/learn-helm/
 site_author: Patashale™
 site_description: Learn everything about Helm here at Patashale™.
-repo_url: https://github.com/patashale/learn-helm
-repo_name: patashale/learn-helm
 theme:
   name: material
   language: en
